@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="common">#3C3C3C</color>
+    
+    <color name="back_btn_press_color">#2000</color>
+    <!-- start zxing -->
+    <color name="viewfinder_frame">#F7D358</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <!-- end zxing -->
+</resources>
